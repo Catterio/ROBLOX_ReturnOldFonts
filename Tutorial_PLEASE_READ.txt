@@ -1,12 +1,12 @@
 ╔════════════════════════════════════════════════════════╗
 ║  HOW TO MODIFY & REPLACE ROBLOX FONT FILES ON WINDOWS: ║
-║  ( a guide by u/Shiba_Kawaii | @B40_Shib | Catterio )  ║ 
+║  ( a guide by u/Shiba_Kawaii | @B40_Shib | Catterio )  ║
 ╠════════════════════════════════════════════════════════╣
 ║ ┌────────────────────────────────────────────────────┐ ║
 ║ │                     ⚠ CAUTION ⚠                    │ ║
 ║ │PLEASE BE SURE THAT YOU HAVE CLOSED THE ROBLOX APP  │ ║
 ║ │BEFORE PERFORMING THESE STEPS. THIS IS TO MAKE SURE │ ║
-║ │THAT THERE ARE NO INTERFERENCES OR ERRORS DURING THE│ ║ 
+║ │THAT THERE ARE NO INTERFERENCES OR ERRORS DURING THE│ ║
 ║ │ENTIRE PROCEDURE.                                   │ ║
 ║ └────────────────────────────────────────────────────┘ ║
 ║                                                        ║
@@ -47,7 +47,7 @@
 ║                                                        ║
 ║•Step 4: Paste in the font files which you have         ║
 ║previously copied here. Doing this will show up a       ║
-║"Replace or Skip Files" confirmation window, in which   ║ 
+║"Replace or Skip Files" confirmation window, in which   ║
 ║you select "Replace the files in the destination".      ║
 ║   ┌─────────────────────────────────────────────────── ║
 ║   │ The destination has # files with the same names    ║
@@ -56,7 +56,7 @@
 ║   │ ↩ Skip these files                                 ║
 ║   │ 🗎 Let me decide which file                         ║
 ║   └─────────────────────────────────────────────────── ║
-║   (#): This number represents the number font files    ║ 
+║   (#): This number represents the number font files    ║
 ║   which are going to replaced with.                    ║
 ╟────────────────────────────────────────────────────────╢
 ║Et voilà. You're done! All you need to do now is start  ║
