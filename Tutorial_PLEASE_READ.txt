@@ -58,7 +58,6 @@
 ║   └─────────────────────────────────────────────────── ║
 ║   (#): This number represents the number font files    ║ 
 ║   which are going to replaced with.                    ║
-║                                                        ║
 ╟────────────────────────────────────────────────────────╢
 ║Et voilà. You're done! All you need to do now is start  ║
 ║up Roblox & enjoy the new experience.                   ║
