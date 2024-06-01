@@ -2,10 +2,10 @@ Since Roblox completely deprecated Arial and Gotham and replaced them with Arimo
 
 To bring back Arial and Gotham, follow the "TUTORIAL_PLEASE_READ.txt" guide provided in the repository.
 
-CAUTION:
+***BEFORE DOWNLOADING, PLEASE TAKE NOTE THAT:***
 
-• Please take note that this method of modding the Roblox font files WILL ONLY WORK on YOUR COMPUTER and ONLY YOU can see the font change.
+*• This method of modding the Roblox font files **WILL ONLY WORK** on YOUR COMPUTER and **ONLY YOU** can see the font change.*
 
-• Whenever roblox updates, you HAVE TO re-replace the Roblox font files again.
+*• Whenever Roblox updates, you **HAVE TO** re-replace the Roblox font files.*
 
-• This method of modding is for Windows computer users.
+*• This method of modding is currently only for Windows computer users. I don't use Mac so don't ask me how it works for Mac computer users.* 
