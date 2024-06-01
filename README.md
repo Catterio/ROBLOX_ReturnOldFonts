@@ -1,6 +1,6 @@
 Since Roblox completely deprecated Arial and Gotham and replaced them with Arimo and Montserrat, I've decided to bring them back! Also partly because I see Montserrat as an ugly alternative to the old beautiful Gotham.
 
-To bring back Arial and Montserrat, follow the "TUTORIAL_PLEASE_READ.txt" guide provided in the repository.
+To bring back Arial and Gotham, follow the "TUTORIAL_PLEASE_READ.txt" guide provided in the repository.
 
 CAUTION:
 
