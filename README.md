@@ -2,6 +2,7 @@ Since Roblox completely deprecated Arial and Gotham and replaced them with Arimo
 
 To bring back Arial and Gotham, follow the "TUTORIAL_PLEASE_READ.txt" guide provided in the repository.
 
+.
 
 ***BEFORE DOWNLOADING, PLEASE TAKE NOTE THAT:***
 
