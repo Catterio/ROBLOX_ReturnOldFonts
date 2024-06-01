@@ -1,0 +1,65 @@
+╔════════════════════════════════════════════════════════╗
+║  HOW TO MODIFY & REPLACE ROBLOX FONT FILES ON WINDOWS: ║
+║  ( a guide by u/Shiba_Kawaii | @B40_Shib | Catterio )  ║ 
+╠════════════════════════════════════════════════════════╣
+║┌────────────────────────────────────────────────────┐  ║
+║│                    ⚠ CAUTION ⚠                   │  ║
+║│PLEASE BE SURE THAT YOU HAVE CLOSED THE ROBLOX APP  │  ║
+║│BEFORE PERFORMING THESE STEPS. THIS IS TO MAKE SURE │  ║
+║│THAT THERE ARE NO INTERRUPTIONS OR ERRORS DURING THE│  ║ 
+║│ENTIRE PROCEDURE.                                   │  ║
+║└────────────────────────────────────────────────────┘  ║
+║                                                        ║
+║•Step 1: Copy the font files in this ZIP folder.        ║
+║                                                        ║
+║•Step 2: Right-click the Roblox app icon on your desktop║
+║& select "Open file location".                          ║
+║   ┌────────────────────────────────                    ║
+║   │ Open                                               ║
+║   ├────────────────────────────────                    ║
+║  →│ Open file location                                 ║
+║   │ Run as administrator                               ║
+║   │ Troubleshoot compatability                         ║
+║   │ Pin to start                                       ║
+║   │ ...                                                ║
+║  After selecting this, a File Explorer window will pop-║
+║  up, showing all the contents of the Roblox app.       ║
+║                                                        ║
+║•Step 3: Through File Explorer, (manually) double-click ║
+║on a folder named "content". Doing this will take you   ║
+║inside the folder. Then, double-click again on a folder ║
+║named "fonts".                                          ║
+║  3a. → 📂content                                       ║
+║        📂ExtraContent                                  ║
+║        📂PlatformContent                               ║
+║        ...                                             ║
+║                                                        ║
+║  3b. Inside [📂content] folder:                        ║
+║        📂avatar                                        ║
+║        📂configs                                       ║
+║      → 📂fonts                                         ║
+║        📂models                                        ║
+║        📂sky                                           ║
+║        ...                                             ║
+║  Doing the steps correctly will lead you inside the    ║
+║  [📂fonts] folder, where all the font files that the   ║
+║  Roblox app uses are stored.                           ║
+║                                                        ║
+║•Step 4: Paste in the font files which you have         ║
+║previously copied here. Doing this will show up a       ║
+║"Replace or Skip Files" confirmation window, in which   ║ 
+║you select "Replace the files in the destination".      ║
+║   ┌─────────────────────────────────────────────────── ║
+║   │ The destination has # files with the same names    ║
+║   │                                                    ║
+║  →│ ✓ Replace the files in the destination             ║
+║   │ ↩ Skip these files                                 ║
+║   │ 🗎 Let me decide which file                         ║
+║   └─────────────────────────────────────────────────── ║
+║   (#): This number represents the number font files    ║ 
+║   which are going to replaced with.                    ║
+║                                                        ║
+╟────────────────────────────────────────────────────────╢
+║Et voilà. You're done! All you need to do now is start  ║
+║up Roblox & enjoy the new experience.                   ║
+╚════════════════════════════════════════════════════════╝
